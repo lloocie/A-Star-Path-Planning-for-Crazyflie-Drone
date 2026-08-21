@@ -1,8 +1,6 @@
-# A-Star-Path-Planning-for-Crazyflie-Drone
-An autonomous path-planning and flight system for navigating a Crazyflie drone through a 2 × 2 m physical obstacle course. The project combines occupancy-grid mapping, obstacle inflation based on real flight tracking error, A* pathfinding, path smoothing, and optional real-world drone execution.
 # Final Project: A* Planning Through a Physical Course
 
-This repo contains a complete  implementation for planning and flying a Crazyflie through a 2 x 2 m course with obstacle inflation based on measured tracking error.
+This folder contains a complete final-project implementation for planning and flying a Crazyflie through a 2 x 2 m course with obstacle inflation based on measured tracking error.
 
 ## What is included
 
